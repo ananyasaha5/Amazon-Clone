@@ -42,22 +42,16 @@ A beginner-friendly clone of Amazon's homepage built using **HTML** and **CSS**.
 - Could be improved with modular CSS or a CSS framework  
 - Product images and links are not dynamic 
 
-## 🛠️ Getting Started
-
-If you want to run this project locally:
-
-```bash
-git clone https://github.com/ananyasaha5/Amazon-Clone.git
-cd Amazon-Clone
-open index.html
-
 ## 📢 Acknowledgements
 
-```txt
-Inspired by the original Amazon.in homepage design.
-This project was created purely for learning and educational purposes.
-No commercial use intended.
+- Inspired by the original [Amazon.in](https://www.amazon.in/) homepage design.
+- Built as a part of practicing **HTML** and **CSS** layout skills.
+- Special thanks to:
+  - [Netlify](https://www.netlify.com/) for easy deployment.
+  - [GitHub](https://github.com/) for version control and project hosting.
+  - [Font Awesome](https://fontawesome.com/) for icons used in the UI.
 
+> This project is for educational and practice purposes only. No commercial intent involved.
 🧑‍💻 Author
 
 - **Ananya Saha**
