@@ -27,6 +27,7 @@ A beginner-friendly clone of Amazon's homepage built using **HTML** and **CSS**.
 🤓 What I Learned
 
 -Structuring HTML layouts
+
 -Using Flexbox for alignment
 -Styling with CSS
 -Hosting a static site with Netlify
