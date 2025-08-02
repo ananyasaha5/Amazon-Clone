@@ -35,6 +35,29 @@ A beginner-friendly clone of Amazon's homepage built using **HTML** and **CSS**.
 ### Footer Section
 <img width="1920" height="850" alt="SS3" src="https://github.com/user-attachments/assets/dec903d7-72f5-445b-8542-97e9b3f8937c" />
 
+## ❌ Limitations / What Could Be Better
+
+- Works only on web view (not fully responsive on mobile)  
+- No JavaScript functionality (static design only)  
+- Could be improved with modular CSS or a CSS framework  
+- Product images and links are not dynamic 
+
+## 🛠️ Getting Started
+
+If you want to run this project locally:
+
+```bash
+git clone https://github.com/ananyasaha5/Amazon-Clone.git
+cd Amazon-Clone
+open index.html
+
+## 📢 Acknowledgements
+
+```txt
+Inspired by the original Amazon.in homepage design.
+This project was created purely for learning and educational purposes.
+No commercial use intended.
+
 🧑‍💻 Author
 
 - **Ananya Saha**
