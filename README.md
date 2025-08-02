@@ -26,7 +26,7 @@ A beginner-friendly clone of Amazon's homepage built using **HTML** and **CSS**.
 
 ## Screenshots 
 
-![Homepage] <img width="1898" height="871" alt="SS1" src="https://github.com/user-attachments/assets/a703ae54-423e-4a60-90e2-d04ede80bc48" />
+![Homepage](<img width="1898" height="871" alt="SS1" src="https://github.com/user-attachments/assets/a703ae54-423e-4a60-90e2-d04ede80bc48" />)
 
 
 
