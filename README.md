@@ -52,6 +52,7 @@ A beginner-friendly clone of Amazon's homepage built using **HTML** and **CSS**.
   - [Font Awesome](https://fontawesome.com/) for icons used in the UI.
 
 > This project is for educational and practice purposes only. No commercial intent involved.
+
 🧑‍💻 Author
 
 - **Ananya Saha**
