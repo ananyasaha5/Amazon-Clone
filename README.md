@@ -38,9 +38,3 @@ A beginner-friendly clone of Amazon's homepage built using **HTML** and **CSS**.
 -Add hover effects to cards and buttons
 -Refactor using CSS Grid
 
-## Screenshots
-
-![Homepage](screenshots/SS1.png)
-![Features](screenshots/SS2.png)
-![Responsive](screenshots/SS3.png)
-- 
