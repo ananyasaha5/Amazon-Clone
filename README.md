@@ -24,18 +24,4 @@ A beginner-friendly clone of Amazon's homepage built using **HTML** and **CSS**.
 - CSS
 - Netlify (for deployment)
 
-🤓 What I Learned
-
--Structuring HTML layouts
-
--Using Flexbox for alignment
--Styling with CSS
--Hosting a static site with Netlify
--Improving responsiveness with media queries
-
-📌 To Improve
-
--Add mobile responsiveness for all screen sizes
--Add hover effects to cards and buttons
--Refactor using CSS Grid
 
